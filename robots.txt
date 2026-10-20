@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shrivallabhsharanam.vercel.app/sitemap.xml
