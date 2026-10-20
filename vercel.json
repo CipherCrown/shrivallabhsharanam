@@ -1,0 +1,1654 @@
+{
+ "redirects": [
+  {
+   "source": "/main",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/main/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/main/1.html",
+   "destination": "/1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/2.html",
+   "destination": "/2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/3.html",
+   "destination": "/3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/33.html",
+   "destination": "/33.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/4.html",
+   "destination": "/4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/5.html",
+   "destination": "/5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/6.html",
+   "destination": "/6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/7.html",
+   "destination": "/7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi1.html",
+   "destination": "/ekadashi1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi10.html",
+   "destination": "/ekadashi10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi12.html",
+   "destination": "/ekadashi12.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi13.html",
+   "destination": "/ekadashi13.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi14.html",
+   "destination": "/ekadashi14.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi15.html",
+   "destination": "/ekadashi15.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi16.html",
+   "destination": "/ekadashi16.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi17.html",
+   "destination": "/ekadashi17.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi18.html",
+   "destination": "/ekadashi18.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi19.html",
+   "destination": "/ekadashi19.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi2.html",
+   "destination": "/ekadashi2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi20.html",
+   "destination": "/ekadashi20.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi21.html",
+   "destination": "/ekadashi21.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi22.html",
+   "destination": "/ekadashi22.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi23.html",
+   "destination": "/ekadashi23.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi24.html",
+   "destination": "/ekadashi24.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi25.html",
+   "destination": "/ekadashi25.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi26.html",
+   "destination": "/ekadashi26.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi27.html",
+   "destination": "/ekadashi27.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi28.html",
+   "destination": "/ekadashi28.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi29.html",
+   "destination": "/ekadashi29.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi3.html",
+   "destination": "/ekadashi3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi30.html",
+   "destination": "/ekadashi30.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi4.html",
+   "destination": "/ekadashi4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi5.html",
+   "destination": "/ekadashi5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Ekadashi7.html",
+   "destination": "/ekadashi7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Links.html",
+   "destination": "/links.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-April.html",
+   "destination": "/utsav-april.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-April08.html",
+   "destination": "/utsav-april08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-August.html",
+   "destination": "/utsav-august.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-August08.html",
+   "destination": "/utsav-august08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-December.html",
+   "destination": "/utsav-december.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-Febuary08.htm",
+   "destination": "/utsav-febuary08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-January08.htm",
+   "destination": "/utsav-january08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-July.html",
+   "destination": "/utsav-july.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-July08.html",
+   "destination": "/utsav-july08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-June.html",
+   "destination": "/utsav-june.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-June08.html",
+   "destination": "/utsav-june08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-March08.htm",
+   "destination": "/utsav-march08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-May.html",
+   "destination": "/utsav-may.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-May08.html",
+   "destination": "/utsav-may08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-November.html",
+   "destination": "/utsav-november.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-October.html",
+   "destination": "/utsav-october.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-Sept08.html",
+   "destination": "/utsav-sept08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-September.html",
+   "destination": "/utsav-september.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-april09.html",
+   "destination": "/utsav-april09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-august09.html",
+   "destination": "/utsav-august09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-feb09.html",
+   "destination": "/utsav-feb09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-jan09.html",
+   "destination": "/utsav-jan09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-july09.html",
+   "destination": "/utsav-july09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-june09.html",
+   "destination": "/utsav-june09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-mar09.html",
+   "destination": "/utsav-mar09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-may09.html",
+   "destination": "/utsav-may09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-oct09.html",
+   "destination": "/utsav-oct09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/Utsav-sept09.html",
+   "destination": "/utsav-sept09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/a1-vallabhdham.html",
+   "destination": "/a1-vallabhdham.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/a2-bhagwatsapta.html",
+   "destination": "/a2-bhagwatsapta.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/aboutus.html",
+   "destination": "/aboutus.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/announcement-board.html",
+   "destination": "/announcement-board.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/announcement.html",
+   "destination": "/announcement.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/ashtsakha.html",
+   "destination": "/ashtsakha.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/avtaar-index.html",
+   "destination": "/avtaar-index.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/avtaar.html",
+   "destination": "/avtaar.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/avtaar1.html",
+   "destination": "/avtaar1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/avtaar2.html",
+   "destination": "/avtaar2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/avtaar3.html",
+   "destination": "/avtaar3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/chetichand08.html",
+   "destination": "/chetichand08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/chetichand1.html",
+   "destination": "/chetichand1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/contents.html",
+   "destination": "/contents.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/dassera.html",
+   "destination": "/dassera.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/dedication.html",
+   "destination": "/dedication.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/deepavali.html",
+   "destination": "/deepavali.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/deepavali06.html",
+   "destination": "/deepavali06.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/deepavali07.html",
+   "destination": "/deepavali07.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/default.html",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/main/dussera.html",
+   "destination": "/dussera.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/dussera07.html",
+   "destination": "/dussera07.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/ekadashivratindex.html",
+   "destination": "/ekadashivratindex.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/faq.html",
+   "destination": "/faq.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/faq0.html",
+   "destination": "/faq0.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/faq1.html",
+   "destination": "/faq1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/faq2.html",
+   "destination": "/faq2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/faq3.html",
+   "destination": "/faq3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/feedback.html",
+   "destination": "/feedback.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/festivals.html",
+   "destination": "/festivals.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/g1.html",
+   "destination": "/g1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gallery.html",
+   "destination": "/gallery.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gauseva1.html",
+   "destination": "/gauseva1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gauseva2.html",
+   "destination": "/gauseva2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gauseva3.html",
+   "destination": "/gauseva3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gauseva4.html",
+   "destination": "/gauseva4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gauseva5.html",
+   "destination": "/gauseva5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gauseva6.html",
+   "destination": "/gauseva6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gausevaindex.html",
+   "destination": "/gausevaindex.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gd1.html",
+   "destination": "/gd1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gita.html",
+   "destination": "/gita.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gm1.html",
+   "destination": "/gm1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/greetings.html",
+   "destination": "/greetings.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/gurublessing.html",
+   "destination": "/gurublessing.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/happy.html",
+   "destination": "/happy.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/happy2.html",
+   "destination": "/happy2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/holi.html",
+   "destination": "/holi.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/holi07.html",
+   "destination": "/holi07.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/holi08.html",
+   "destination": "/holi08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/holi09.html",
+   "destination": "/holi09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/holi1.html",
+   "destination": "/holi1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/holi10.html",
+   "destination": "/holi10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/index.html",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/main/jam.html",
+   "destination": "/jam.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/jamashtami0.html",
+   "destination": "/jamashtami0.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/jamashtami07.html",
+   "destination": "/jamashtami07.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/janmashtami.html",
+   "destination": "/janmashtami.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/kultree.html",
+   "destination": "/kultree.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/kultree1.html",
+   "destination": "/kultree1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/mymfoundation.html",
+   "destination": "/mymfoundation.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/navratri0.html",
+   "destination": "/navratri0.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/navratri05.html",
+   "destination": "/navratri05.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/navratri07.html",
+   "destination": "/navratri07.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/ndex.html",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/main/nitya.html",
+   "destination": "/nitya.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p.html",
+   "destination": "/p.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p1.html",
+   "destination": "/p1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p10.html",
+   "destination": "/p10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.1.html",
+   "destination": "/p11-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.2.html",
+   "destination": "/p11-2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.3.html",
+   "destination": "/p11-3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.4.html",
+   "destination": "/p11-4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.5.html",
+   "destination": "/p11-5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.6.html",
+   "destination": "/p11-6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.7.html",
+   "destination": "/p11-7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.8.html",
+   "destination": "/p11-8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p11.html",
+   "destination": "/p11.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p12.html",
+   "destination": "/p12.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p13.html",
+   "destination": "/p13.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p14.html",
+   "destination": "/p14.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p15.html",
+   "destination": "/p15.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p16.1.html",
+   "destination": "/p16-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p16.html",
+   "destination": "/p16.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p2.html",
+   "destination": "/p2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p3.html",
+   "destination": "/p3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p4.html",
+   "destination": "/p4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p5.html",
+   "destination": "/p5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p6.html",
+   "destination": "/p6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p7.html",
+   "destination": "/p7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p8.html",
+   "destination": "/p8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/p9.html",
+   "destination": "/p9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic-index.html",
+   "destination": "/pic-index.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic1.html",
+   "destination": "/pic1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic10.html",
+   "destination": "/pic10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic2.html",
+   "destination": "/pic2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic3.html",
+   "destination": "/pic3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic4.html",
+   "destination": "/pic4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic5.html",
+   "destination": "/pic5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic6.html",
+   "destination": "/pic6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic7.html",
+   "destination": "/pic7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic8.html",
+   "destination": "/pic8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/pic9.html",
+   "destination": "/pic9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q1.html",
+   "destination": "/q1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q10.html",
+   "destination": "/q10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q11.html",
+   "destination": "/q11.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q12.html",
+   "destination": "/q12.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q13.html",
+   "destination": "/q13.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q14.html",
+   "destination": "/q14.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q2.html",
+   "destination": "/q2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q20.html",
+   "destination": "/q20.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q21.html",
+   "destination": "/q21.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q3.html",
+   "destination": "/q3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q4.html",
+   "destination": "/q4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q5.html",
+   "destination": "/q5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q6.html",
+   "destination": "/q6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q7.html",
+   "destination": "/q7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q8.html",
+   "destination": "/q8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/q9.html",
+   "destination": "/q9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/queries.html",
+   "destination": "/queries.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz.html",
+   "destination": "/quiz.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz1.html",
+   "destination": "/quiz1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz2.html",
+   "destination": "/quiz2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz3.html",
+   "destination": "/quiz3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz4.html",
+   "destination": "/quiz4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz5.html",
+   "destination": "/quiz5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz6.html",
+   "destination": "/quiz6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/quiz7.html",
+   "destination": "/quiz7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/r1.html",
+   "destination": "/r1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/r2.html",
+   "destination": "/r2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/r3.html",
+   "destination": "/r3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/r4.html",
+   "destination": "/r4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/r5.html",
+   "destination": "/r5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/r6.html",
+   "destination": "/r6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s1.html",
+   "destination": "/s1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s10a.html",
+   "destination": "/s10a.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s11.html",
+   "destination": "/s11.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s12.html",
+   "destination": "/s12.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s13.html",
+   "destination": "/s13.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s14.html",
+   "destination": "/s14.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s15.html",
+   "destination": "/s15.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s16.html",
+   "destination": "/s16.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s17.html",
+   "destination": "/s17.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s18.html",
+   "destination": "/s18.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s19.html",
+   "destination": "/s19.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s2.html",
+   "destination": "/s2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s3.html",
+   "destination": "/s3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s4.html",
+   "destination": "/s4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s5.html",
+   "destination": "/s5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s6.html",
+   "destination": "/s6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s7.html",
+   "destination": "/s7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s8.html",
+   "destination": "/s8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/s9.html",
+   "destination": "/s9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam1.html",
+   "destination": "/sarvotam1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam10.html",
+   "destination": "/sarvotam10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam11.html",
+   "destination": "/sarvotam11.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam12.html",
+   "destination": "/sarvotam12.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam13.html",
+   "destination": "/sarvotam13.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam14.html",
+   "destination": "/sarvotam14.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam15.html",
+   "destination": "/sarvotam15.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam16.html",
+   "destination": "/sarvotam16.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam17.html",
+   "destination": "/sarvotam17.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam18.html",
+   "destination": "/sarvotam18.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam19.html",
+   "destination": "/sarvotam19.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam2.html",
+   "destination": "/sarvotam2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam20.html",
+   "destination": "/sarvotam20.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam21.html",
+   "destination": "/sarvotam21.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam22.html",
+   "destination": "/sarvotam22.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam23.html",
+   "destination": "/sarvotam23.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam24.html",
+   "destination": "/sarvotam24.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam25.html",
+   "destination": "/sarvotam25.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam26.html",
+   "destination": "/sarvotam26.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam27.html",
+   "destination": "/sarvotam27.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam3.html",
+   "destination": "/sarvotam3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam4.html",
+   "destination": "/sarvotam4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam5.html",
+   "destination": "/sarvotam5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam6.html",
+   "destination": "/sarvotam6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam7.html",
+   "destination": "/sarvotam7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam8.html",
+   "destination": "/sarvotam8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sarvotam9.html",
+   "destination": "/sarvotam9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven1.html",
+   "destination": "/seven1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven10.html",
+   "destination": "/seven10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven2.html",
+   "destination": "/seven2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven3.html",
+   "destination": "/seven3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven4.html",
+   "destination": "/seven4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven5.html",
+   "destination": "/seven5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven6.html",
+   "destination": "/seven6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven7.html",
+   "destination": "/seven7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven8.html",
+   "destination": "/seven8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/seven9.html",
+   "destination": "/seven9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/shri.html",
+   "destination": "/shri.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/sitemap.html",
+   "destination": "/sitemap.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/source.html",
+   "destination": "/source.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story1.html",
+   "destination": "/story1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story10.html",
+   "destination": "/story10.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story11.html",
+   "destination": "/story11.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story12.html",
+   "destination": "/story12.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story13.html",
+   "destination": "/story13.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story14.html",
+   "destination": "/story14.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story15.html",
+   "destination": "/story15.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story16.html",
+   "destination": "/story16.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story17.html",
+   "destination": "/story17.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story18.html",
+   "destination": "/story18.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story19.html",
+   "destination": "/story19.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story2.html",
+   "destination": "/story2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story20.html",
+   "destination": "/story20.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story21.html",
+   "destination": "/story21.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story22.html",
+   "destination": "/story22.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story23.html",
+   "destination": "/story23.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story24.html",
+   "destination": "/story24.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story25.html",
+   "destination": "/story25.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story26.html",
+   "destination": "/story26.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story27.html",
+   "destination": "/story27.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story28.html",
+   "destination": "/story28.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story29.html",
+   "destination": "/story29.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story3.html",
+   "destination": "/story3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story30.html",
+   "destination": "/story30.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story31.html",
+   "destination": "/story31.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story32.html",
+   "destination": "/story32.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story33.html",
+   "destination": "/story33.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story34.html",
+   "destination": "/story34.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story35.html",
+   "destination": "/story35.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story36.html",
+   "destination": "/story36.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story37.html",
+   "destination": "/story37.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story38.html",
+   "destination": "/story38.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story39.html",
+   "destination": "/story39.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story4.html",
+   "destination": "/story4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story40.html",
+   "destination": "/story40.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story41.html",
+   "destination": "/story41.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story5.html",
+   "destination": "/story5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story6.html",
+   "destination": "/story6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story7.html",
+   "destination": "/story7.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story8.html",
+   "destination": "/story8.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/story9.html",
+   "destination": "/story9.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/storyindex.html",
+   "destination": "/storyindex.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/swaroop.html",
+   "destination": "/swaroop.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/u1.html",
+   "destination": "/u1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/u2.html",
+   "destination": "/u2.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/u3.html",
+   "destination": "/u3.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/u4.html",
+   "destination": "/u4.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/u5.html",
+   "destination": "/u5.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/u6.html",
+   "destination": "/u6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/utsaav-tappani-archive.html",
+   "destination": "/utsaav-tappani.html#index-2007",
+   "permanent": true
+  },
+  {
+   "source": "/main/utsaav-tappani-archive08.html",
+   "destination": "/utsaav-tappani.html#index-2008",
+   "permanent": true
+  },
+  {
+   "source": "/main/utsaav-tappani-archive09.html",
+   "destination": "/utsaav-tappani.html#index-2009",
+   "permanent": true
+  },
+  {
+   "source": "/main/utsaav-tappani-archive10.html",
+   "destination": "/utsaav-tappani.html#index-2010",
+   "permanent": true
+  },
+  {
+   "source": "/main/utsaav-tappani.html",
+   "destination": "/utsaav-tappani.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/utsaav.html",
+   "destination": "/utsaav.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v0.1.html",
+   "destination": "/v0-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v1.1.html",
+   "destination": "/v1-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v2.1.html",
+   "destination": "/v2-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v3.1.html",
+   "destination": "/v3-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v4.1.html",
+   "destination": "/v4-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v5.1.html",
+   "destination": "/v5-1.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/v6.html",
+   "destination": "/v6.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabh.html",
+   "destination": "/vallabh.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabh06.html",
+   "destination": "/vallabh06.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabh07.html",
+   "destination": "/vallabh07.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabh08.html",
+   "destination": "/vallabh08.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabh09.html",
+   "destination": "/vallabh09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabhdham.html",
+   "destination": "/vallabhdham.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/vallabhdham09.html",
+   "destination": "/vallabhdham09.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/varta.html",
+   "destination": "/varta.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/writetous.html",
+   "destination": "/writetous.html",
+   "permanent": true
+  },
+  {
+   "source": "/main/x3.html",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/main/x4.html",
+   "destination": "/",
+   "permanent": true
+  }
+ ]
+}
